@@ -30,10 +30,8 @@ A React application that displays a list of Star Wars characters using the [SWAP
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/star-wars-characters-app.git
+   git clone https://github.com/ahsaanshuja/star-wars-characters-app
    ```
-
-````
 
 2. Navigate to the project directory:
 
@@ -72,4 +70,3 @@ This will open the app in your default browser at `http://localhost:3000`.
 - [SWAPI](https://swapi.dev/) for providing the data.
 - [Chakra UI](https://chakra-ui.com/) for the UI components.
 - [TanStack Query](https://tanstack.com/query) for powerful data-fetching capabilities.
-````
